@@ -1,31 +1,31 @@
-<h1 align="center">Hey, soy mdz👋</h1>
+<h1 align="center">Hey, I'm Maximiliano Diaz (mdz48) 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Desarrollo de Software · Full-stack · Mobile · IoT
+  Software Engineering Student · Full-stack ·
 </p>
 
 <p align="center">
-  <a href="TU_PORTFOLIO_AQUI">🌐 Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:TU_CORREO_AQUI">✉️ Contacto</a>
+  <a href="https://mdz48.github.io/portfolio/">🌐 Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:maxdiazcm@gmail.com">✉️ Contact</a>
 </p>
 
 ---
 
-## Sobre mí
+## About me
 
-Construyo software de extremo a extremo: desde el firmware de un sensor hasta el panel que lo visualiza. Me interesa la arquitectura limpia, los sistemas distribuidos y entregar cosas que funcionen en producción. Llevo proyectos reales con clientes reales desde el año 2024.
+I build software end-to-end — from IoT firmware to the dashboard that visualizes it. I care about clean architecture, distributed systems, and shipping things that actually work in production. I've been delivering real projects for real clients since 2024.
 
-- 🎓 Ingeniería en Desarrollo de Software
-- 🏆 2° lugar · Vara Network Hackathon 2024
-- 🏅 Mención honorífica · Latin Hack 2025
-- 🌱 Actualmente explorando: `[lo que estés aprendiendo ahora]`
-- 💼 Abierto a colaboraciones y oportunidades
+- 🎓 B.S. in Software Engineering Development
+- 🏆 2nd place · Vara Network Hackathon 2024
+- 🏅 Honorable mention · Latin Hack 2025
+- 🌱 Currently exploring: `Vue`
+- 💼 Open to collaborations and opportunities
 
 ---
 
 ## Stack
 
-**Lenguajes**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -49,7 +49,7 @@ Construyo software de extremo a extremo: desde el firmware de un sensor hasta el
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Infra, IoT & Mensajería**
+**Infra, IoT & Messaging**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -59,28 +59,23 @@ Construyo software de extremo a extremo: desde el firmware de un sensor hasta el
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
-| # | Proyecto | Descripción | Stack | Estado |
-|---|----------|-------------|-------|--------|
-| 01 | [**FitnessPro**](https://github.com/mdz48/FitnessPro-FrontKotlin) | App Android de fitness y nutrición — comunidad, seguimiento personal, offline-first y plan premium | Kotlin · Jetpack Compose · FastAPI · AWS · Mercado Pago | 🟢 Live |
-| 02 | [**SmartVitals**](https://github.com/mdz48/smartvitals-frontend) | Monitoreo remoto de signos vitales en tiempo real para médicos | Angular · FastAPI · MQTT · RabbitMQ · AWS | 🟢 Live |
-| 03 | [**Educalink**](https://github.com/mdz48/EducaLinkFrontend) | Plataforma de gestión escolar — calificaciones, asistencia y comunicados en un solo flujo | Angular · FastAPI · PostgreSQL · AWS | 🟢 Live |
-| 04 | [**Flamingos**](https://github.com/mdz48/flamingos_front) | Sistema a medida para operadora de salones de eventos — primer cliente real | React · Express · Node.js · AWS | 🔒 Archivado |
-| 05 | [**Balam Café**](https://github.com/mdz48/balam-cafe) | Punto de venta para cafetería — inventario, caja y reportes diarios | Java | 🔒 Archivado |
+| # | Project | Description | Stack | 
+|---|---------|-------------|-------|
+| 01 | [**FitnessPro**](https://github.com/mdz48/FitnessPro-FrontKotlin) | Android fitness & nutrition app — community features, personal tracking, offline-first and premium plan | Kotlin · Jetpack Compose · FastAPI · AWS · Mercado Pago
+| 02 | [**SmartVitals**](https://github.com/mdz48/smartvitals-frontend) | Real-time remote vital signs monitoring for physicians | Angular · FastAPI · MQTT · RabbitMQ · AWS | 
+| 03 | [**Educalink**](https://github.com/mdz48/EducaLinkFrontend) | School management platform — grades, attendance and announcements in one flow | Angular · FastAPI · PostgreSQL · AWS | 
+| 04 | [**Flamingos**](https://github.com/mdz48/flamingos_front) | Custom system for an event venue operator — first real client, from interviews to deployment | React · Express · Node.js · AWS | 
+| 05 | [**Balam Café**](https://github.com/mdz48/balam-cafe) | Point-of-sale for a coffee shop — inventory, cash register and daily reports | Java | 
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mdz48&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdz48&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-theta-ten-18.vercel.app/api?username=mdz48&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-theta-ten-18.vercel.app/api/top-langs/?username=mdz48&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
-
-<p align="center">
-  <a href="TU_PORTFOLIO_AQUI">🌐 Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:TU_CORREO_AQUI">✉️ TU_CORREO_AQUI</a>
-</p>
