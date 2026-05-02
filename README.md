@@ -38,7 +38,6 @@ I build software end-to-end — from IoT firmware to the dashboard that visualiz
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
@@ -68,14 +67,5 @@ I build software end-to-end — from IoT firmware to the dashboard that visualiz
 | 03 | [**Educalink**](https://github.com/mdz48/EducaLinkFrontend) | School management platform — grades, attendance and announcements in one flow | Angular · FastAPI · PostgreSQL · AWS | 
 | 04 | [**Flamingos**](https://github.com/mdz48/flamingos_front) | Custom system for an event venue operator — first real client, from interviews to deployment | React · Express · Node.js · AWS | 
 | 05 | [**Balam Café**](https://github.com/mdz48/balam-cafe) | Point-of-sale for a coffee shop — inventory, cash register and daily reports | Java | 
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-theta-ten-18.vercel.app/api?username=mdz48&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-theta-ten-18.vercel.app/api/top-langs/?username=mdz48&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
