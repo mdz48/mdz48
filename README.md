@@ -13,7 +13,7 @@
 
 ## About me
 
-I build software end-to-end — from IoT firmware to the dashboard that visualizes it. I care about clean architecture, distributed systems, and shipping things that actually work in production. I've been delivering real projects for real clients since 2024.
+I build software end-to-end — from IoT firmware to the dashboard that visualizes it. I care about clean architecture, distributed systems, and shipping things that actually work in production. I've been delivering projects for real clients since 2024.
 
 - 🎓 B.S. in Software Engineering Development
 - 🏆 2nd place · Vara Network Hackathon 2024
